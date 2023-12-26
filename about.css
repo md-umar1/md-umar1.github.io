@@ -1,0 +1,45 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: antiquewhite;
+    /* box-shadow: 5px 5px; */
+    color: #333;
+    margin: 0;
+    padding: 0;
+
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+main {
+    box-shadow: 5px 5px 5px 5px;    
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.about-me {
+    background-color: #fff;
+    box-shadow: 5px 5px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.about-me-content {
+    text-align: center;
+    
+}
+
+h1 {
+   
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.intro {
+    text-align: justify;
+}

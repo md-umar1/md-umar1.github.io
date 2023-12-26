@@ -1,0 +1,14 @@
+/* Global styles remain unchanged */
+
+/* Styles for the project details */
+.project-details {
+    border: 3px solid #ee0553;
+    box-shadow: 5px 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.project-details h2 {
+    margin-bottom: 10px;
+}
